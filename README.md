@@ -2,7 +2,7 @@
 
 🧠 Sri Eshwar College of Engineering</br>
 🔧 Engineer,passionate about technology and innovation </br> 
-💡 Problem solver with experience in [software engineering]  </br>
+💡 Problem solver   </br>
 🚀 I work on multiple stack,MERN and FULL stack  </br>
 📌 Sharing insights and projects on [https://www.linkedin.com/in/pranesh-s-229708259/]  </br>
 
